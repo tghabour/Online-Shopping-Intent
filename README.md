@@ -21,6 +21,8 @@ Predict online purchasing outcomes based on browsing behavior and other features
 
 ![bokeh plot](https://i.loli.net/2020/06/20/uMnmSN8BvyFZz4Q.png)
 
+[Interactive verion] (online_shopping.html) 
+
 ## Results:
 
 ![confusion matix](https://i.loli.net/2020/06/20/34MEyLktvpPaVc1.png)
