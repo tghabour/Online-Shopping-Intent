@@ -21,8 +21,6 @@ Predict online purchasing outcomes based on browsing behavior and other features
 
 ![bokeh plot](https://i.loli.net/2020/06/20/uMnmSN8BvyFZz4Q.png)
 
-[Interactive version](http://htmlpreview.github.io/?https://github.com/twbs/bootstrap/blob/gh-pages/2.3.2/index.html)
-
 
 
 ## Results:
